@@ -11,7 +11,7 @@ You can usually find me building solutions that:
 
 This entangles several different areas of which financial services are my favourite but I'm always keen to learn & develop new skills!😃
 
-(some) domains I recurrently work with:
+(some) topics I recurrently work with:
 * Financial Products & Derivatives
 * High Performance Databases
 * Time Series Forecasting

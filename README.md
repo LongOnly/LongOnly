@@ -18,7 +18,6 @@ This entangles a lot of different areas which financial services are my favourit
 * High Performance Databases
 * Time Series Forecasting
 * Software Arquitecture
-* Spectral Analysis
 * Machine Learning
+* Spectral Analysis
 * Econometrics
-* Databases

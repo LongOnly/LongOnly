@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**LongOnly/LongOnly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Leonardo and I'm 25 years old. I have a BSc in Corporate Finance and currently wrapping up (remotly) my MSc in Information and Enterprise Systems. I also did 2 semesters at an Applied Econometrics and Forecasting MSc.
 
-Here are some ideas to get you started:
+I have coded in Python, C++, C#, MATLAB, R and VBA (mostly Python the last 3 years).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently based in Portugal, you can usually find me building solutions that:
+* Retrieve and store large amounts of data
+* Find patterns and anomalous behaviours
+* Optimize complex processes
+* Automate boring tasks
+
+This entangles a lot of different areas which financial services are my favourite but I'm always keen to learn & develop new skills!
+
+(some) knowledge domains:
+* Financial Markets & Asset Management
+* Financial Products & Derivatives
+* High Performance Databases
+* Time Series Forecasting
+* Software Arquitecture
+* Spectral Analysis
+* Machine Learning
+* Econometrics
+* Databases

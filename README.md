@@ -4,7 +4,7 @@ I'm Leonardo and I'm 25 years old. I have a **BSc in Corporate Finance** and cur
 
 I have coded in **Python**, **C++**, **C#**, **MATLAB**, **R** and **VBA** *(mostly Python the last 3 years)*.
 
-Currently based in Portugal, you can usually find me building solutions that:
+You can usually find me building solutions that:
 * Retrieve and store large amounts of data
 * Find patterns and anomalous behaviours
 * Optimize and/or automate complex processes

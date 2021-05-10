@@ -7,11 +7,11 @@ I have coded in **Python**, **C++**, **C#**, **MATLAB**, **R** and **VBA** *(mos
 Currently based in Portugal, you can usually find me building solutions that:
 * Retrieve and store large amounts of data
 * Find patterns and anomalous behaviours
-* Optimize and automate complex processes
+* Optimize and/or automate complex processes
 
 This entangles a lot of different areas which financial services are my favourite but I'm always keen to learn & develop new skills!😃
 
-(some) domains I recurrently work on:
+(some) domains I recurrently work with:
 * Financial Products & Derivatives
 * High Performance Databases
 * Time Series Forecasting
